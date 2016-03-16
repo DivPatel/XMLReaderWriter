@@ -1,0 +1,4 @@
+﻿INSERT INTO [dbo].[Table] ([Registration_No], [Name], [Age], [Sex], [Department], [DOB], [Phone_No]) VALUES (1081310272, N'Divyesh   ', N'20        ', N'Male      ', N'IT        ', N'1995-09-10 00:00:00', N'9176161770')
+INSERT INTO [dbo].[Table] ([Registration_No], [Name], [Age], [Sex], [Department], [DOB], [Phone_No]) VALUES (1081310273, N'Aditya    ', N'20        ', N'Male      ', N'IT        ', N'1995-10-10 00:00:00', N'9909526433')
+INSERT INTO [dbo].[Table] ([Registration_No], [Name], [Age], [Sex], [Department], [DOB], [Phone_No]) VALUES (1081310274, N'Nidhi     ', N'20        ', N'Female    ', N'CSE       ', N'1996-10-10 00:00:00', N'1289566642')
+INSERT INTO [dbo].[Table] ([Registration_No], [Name], [Age], [Sex], [Department], [DOB], [Phone_No]) VALUES (1081310275, N'Ravina    ', N'21        ', N'Female    ', N'Bio       ', N'2015-12-10 00:00:00', N'6339568456')
